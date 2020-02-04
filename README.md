@@ -7,6 +7,7 @@
 # `mp-units` - A Units Library for C++
 
 ## TL;DR
+To install see units/docs
 
 ```cpp
 #include <units/physical/si/velocity.h>
